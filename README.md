@@ -1,3 +1,3 @@
-# Tweetnacl
+# TweetNaCl
 
-agreherhe
+TweetNaCl implementation by ???
